@@ -1,0 +1,51 @@
+header{
+    font-style: italic ;
+    font-size: xx-large;
+    border: 20px double #ecf309 ;
+    padding: 20px; background-color: rgb(194, 11, 11);
+    margin-bottom: 70px;
+    
+    
+   
+   
+}
+body{
+    background-color: black;
+}
+.pic{
+    border: solid yellow;
+    margin-left: 120px;
+    margin-right:200px;
+    background-color: aqua;
+    margin-bottom: 50px;
+    
+}
+section{
+  border: 20px yellow double;
+}
+div{
+    display:inline-flex;
+    
+}
+.sec1{
+    border : 2px solid;
+    padding :2px 10px 2px 10px;
+}
+.sec2{
+    border : 2px solid;
+    
+}
+.sec3{
+    border : 2px solid;
+}
+footer{
+
+    border : 2px solid #ecf309 ;
+    background-color: yellowgreen;
+    font-size: xx-large;
+    color: antiquewhite;
+    display: inline;
+}
+h2{
+    
+}
