@@ -1,5 +1,5 @@
 body{
-  background-color: #000000 ;
+  background-color: #f57004c4 ;
   color: #e9e9e9;
   padding: 20px;
   text-align:  center;}
@@ -7,23 +7,31 @@ header{
     font-style: italic ;
     font-size: xx-large;
     border: 20px double #ecf309 ;
-    padding: 20px; background-color: rgb(194, 11, 11);
-    margin-bottom: 100px;
+    padding: 20px;
+    background-color: #c20b0b;
+    margin-bottom: 50px;
+} 
+hr{
+  color: #dfdf28;
 }
-
+main{
+  padding-top: 50px;
+  border: double 20px #fcf6f6;
+  background-color: #000000;
+}
 .rel{
   
   display: inline;
   padding-right: 20px;
 }
 .vin{
-  box-sizing: border-box;
+  
   display: inline;
   padding-right: 20px;
   
 }
 .fel{
-  box-sizing: border-box;
+  
   display: inline;
   
 }
@@ -34,33 +42,32 @@ section{
 .sec1{
   padding-left: 20px;
   padding-right: 20px;
-  width: 200px;
   border: 1px solid #008000;
   padding right: 10px;
   margin: 20px;
   display: inline;
   font-size: large;
-  
+  color: white;
 }
 .sec2{
   padding-left: 20px;
   padding-right: 20px;
-  width: 200px;
   border: 1px solid #008000;
   padding right: 10px;
   margin: 20px;
   display:inline;
   font-size: large;
+  color: white;
 }
 .sec3{
   padding-left: 20px;
   padding-right: 20px;
-  width: 200px;
   border: 1px solid #008000;
   padding right: 10px;
   margin: 20px;
   display: inline;
   font-size: large;
+  color: white;
 }
 button{
   font-size: xx-large;
