@@ -4,8 +4,8 @@ body{
   padding: 20px;
   text-align:  center;}
 header{
-    font-style: italic ;
-    font-size: xx-large;
+   font-style: italic;
+  font-size: xx-large;
     border: 20px double #ecf309 ;
     padding: 20px;
     background-color: #c20b0b;
@@ -28,7 +28,7 @@ main{
   
   display: inline;
   padding-right: 20px;
-  
+ 
 }
 .fel{
   
@@ -37,6 +37,7 @@ main{
 }
 section{
   margin-top: 12px;
+  background-color: #79f133 ;
 }
 
 .sec1{
@@ -48,6 +49,7 @@ section{
   display: inline;
   font-size: large;
   color: white;
+  background-color: #f57004 ;
 }
 .sec2{
   padding-left: 20px;
@@ -58,6 +60,7 @@ section{
   display:inline;
   font-size: large;
   color: white;
+  background-color: #f57004 ;
 }
 .sec3{
   padding-left: 20px;
@@ -68,6 +71,7 @@ section{
   display: inline;
   font-size: large;
   color: white;
+  background-color: #f57004 ;
 }
 button{
   font-size: xx-large;
